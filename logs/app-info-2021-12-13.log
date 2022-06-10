@@ -1,0 +1,12 @@
+[DEBUG] 2021-12-13 19:31:06.293 [main] BaseClass - URL is opened
+[DEBUG] 2021-12-13 19:31:07.845 [main] TC_Login_DD_002 - Username is malvivivek8198@gmail.com
+[DEBUG] 2021-12-13 19:31:07.898 [main] TC_Login_DD_002 - Password is 1Qazmlp1@
+[DEBUG] 2021-12-13 19:31:08.576 [main] TC_Login_DD_002 - Login Button is clicked
+[DEBUG] 2021-12-13 19:31:11.758 [main] TC_Login_DD_002 - Ok Button for invalid credential error is clicked
+[DEBUG] 2021-12-13 19:31:11.764 [main] TC_Login_DD_002 - Login failed
+[DEBUG] 2021-12-13 19:31:11.867 [main] TC_Login_DD_002 - Username is malvivivek8198@gmail.com
+[DEBUG] 2021-12-13 19:31:11.933 [main] TC_Login_DD_002 - Password is Raoinfotech@09
+[DEBUG] 2021-12-13 19:31:12.491 [main] TC_Login_DD_002 - Login Button is clicked
+[DEBUG] 2021-12-13 19:31:15.524 [main] TC_Login_DD_002 - Login passed
+[DEBUG] 2021-12-13 19:31:17.618 [main] TC_Login_DD_002 - Close button is clicked of regulatory notice
+[DEBUG] 2021-12-13 19:31:18.714 [main] TC_Login_DD_002 - Username Dropdown is clicked

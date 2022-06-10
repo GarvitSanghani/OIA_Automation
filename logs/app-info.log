@@ -1,0 +1,68 @@
+[DEBUG] 2022-06-10 16:30:30.014 [main] BaseClass - URL is opened
+[DEBUG] 2022-06-10 16:30:31.202 [main] TC_LoginTest_001 - Username is entered
+[DEBUG] 2022-06-10 16:30:31.338 [main] TC_LoginTest_001 - Password is entered
+[DEBUG] 2022-06-10 16:30:31.656 [main] TC_LoginTest_001 - Login Button is clicked
+[DEBUG] 2022-06-10 16:38:22.985 [main] BaseClass - URL is opened
+[DEBUG] 2022-06-10 16:38:24.386 [main] TC_LoginTest_001 - Username is entered
+[DEBUG] 2022-06-10 16:38:24.602 [main] TC_LoginTest_001 - Password is entered
+[DEBUG] 2022-06-10 16:38:24.908 [main] TC_LoginTest_001 - Login Button is clicked
+[DEBUG] 2022-06-10 16:38:30.307 [main] TC_LoginTest_001 - Close button is clicked of regulatory notice
+[ERROR] 2022-06-10 16:38:30.323 [main] TC_LoginTest_001 - Login test failed
+[DEBUG] 2022-06-10 16:44:44.103 [main] BaseClass - URL is opened
+[DEBUG] 2022-06-10 16:44:45.328 [main] TC_LoginTest_001 - Username is entered
+[DEBUG] 2022-06-10 16:44:45.453 [main] TC_LoginTest_001 - Password is entered
+[DEBUG] 2022-06-10 16:44:45.787 [main] TC_LoginTest_001 - Login Button is clicked
+[DEBUG] 2022-06-10 16:44:50.087 [main] TC_LoginTest_001 - Close button is clicked of regulatory notice
+[INFO ] 2022-06-10 16:44:50.106 [main] TC_LoginTest_001 - Login test passed
+[DEBUG] 2022-06-10 16:45:19.990 [main] BaseClass - URL is opened
+[DEBUG] 2022-06-10 16:45:21.243 [main] TC_LoginTest_001 - Username is entered
+[DEBUG] 2022-06-10 16:45:21.425 [main] TC_LoginTest_001 - Password is entered
+[DEBUG] 2022-06-10 16:45:21.731 [main] TC_LoginTest_001 - Login Button is clicked
+[DEBUG] 2022-06-10 16:45:25.931 [main] TC_LoginTest_001 - Close button is clicked of regulatory notice
+[INFO ] 2022-06-10 16:45:25.948 [main] TC_LoginTest_001 - Login test passed
+[DEBUG] 2022-06-10 16:46:47.883 [main] BaseClass - URL is opened
+[DEBUG] 2022-06-10 16:46:49.360 [main] TC_LoginTest_001 - Username is entered
+[DEBUG] 2022-06-10 16:46:49.640 [main] TC_LoginTest_001 - Password is entered
+[DEBUG] 2022-06-10 16:46:49.995 [main] TC_LoginTest_001 - Login Button is clicked
+[DEBUG] 2022-06-10 16:46:54.539 [main] TC_LoginTest_001 - Close button is clicked of regulatory notice
+[INFO ] 2022-06-10 16:46:54.556 [main] TC_LoginTest_001 - Login test passed
+[DEBUG] 2022-06-10 16:51:28.414 [main] BaseClass - URL is opened
+[DEBUG] 2022-06-10 16:51:29.639 [main] TC_LoginTest_001 - Username is entered
+[DEBUG] 2022-06-10 16:51:29.823 [main] TC_LoginTest_001 - Password is entered
+[DEBUG] 2022-06-10 16:51:30.228 [main] TC_LoginTest_001 - Login Button is clicked
+[DEBUG] 2022-06-10 16:51:34.461 [main] TC_LoginTest_001 - Close button is clicked of regulatory notice
+[INFO ] 2022-06-10 16:51:34.480 [main] TC_LoginTest_001 - Login test passed
+[DEBUG] 2022-06-10 16:52:17.558 [main] BaseClass - URL is opened
+[DEBUG] 2022-06-10 16:52:18.760 [main] TC_LoginTest_001 - Username is entered
+[DEBUG] 2022-06-10 16:52:18.938 [main] TC_LoginTest_001 - Password is entered
+[DEBUG] 2022-06-10 16:52:19.263 [main] TC_LoginTest_001 - Login Button is clicked
+[DEBUG] 2022-06-10 16:52:23.150 [main] TC_LoginTest_001 - Close button is clicked of regulatory notice
+[INFO ] 2022-06-10 16:52:23.163 [main] TC_LoginTest_001 - Login test passed
+[DEBUG] 2022-06-10 17:36:03.392 [main] BaseClass - URL is opened
+[DEBUG] 2022-06-10 17:36:04.628 [main] TC_LoginTest_001 - Username is entered
+[DEBUG] 2022-06-10 17:36:04.763 [main] TC_LoginTest_001 - Password is entered
+[DEBUG] 2022-06-10 17:36:05.105 [main] TC_LoginTest_001 - Login Button is clicked
+[DEBUG] 2022-06-10 17:36:56.875 [main] BaseClass - URL is opened
+[DEBUG] 2022-06-10 17:36:58.097 [main] TC_LoginTest_001 - Username is entered
+[DEBUG] 2022-06-10 17:36:58.271 [main] TC_LoginTest_001 - Password is entered
+[DEBUG] 2022-06-10 17:36:58.752 [main] TC_LoginTest_001 - Login Button is clicked
+[DEBUG] 2022-06-10 17:37:02.902 [main] TC_LoginTest_001 - Close button is clicked of regulatory notice
+[INFO ] 2022-06-10 17:37:02.916 [main] TC_LoginTest_001 - Login test passed
+[DEBUG] 2022-06-10 17:37:42.015 [main] BaseClass - URL is opened
+[DEBUG] 2022-06-10 17:37:43.454 [main] TC_LoginTest_001 - Username is entered
+[DEBUG] 2022-06-10 17:37:43.607 [main] TC_LoginTest_001 - Password is entered
+[DEBUG] 2022-06-10 17:37:43.912 [main] TC_LoginTest_001 - Login Button is clicked
+[DEBUG] 2022-06-10 17:37:48.890 [main] TC_LoginTest_001 - Close button is clicked of regulatory notice
+[INFO ] 2022-06-10 17:37:48.916 [main] TC_LoginTest_001 - Login test passed
+[DEBUG] 2022-06-10 17:38:16.217 [main] BaseClass - URL is opened
+[DEBUG] 2022-06-10 17:38:17.402 [main] TC_LoginTest_001 - Username is entered
+[DEBUG] 2022-06-10 17:38:17.583 [main] TC_LoginTest_001 - Password is entered
+[DEBUG] 2022-06-10 17:38:17.908 [main] TC_LoginTest_001 - Login Button is clicked
+[DEBUG] 2022-06-10 17:38:22.881 [main] TC_LoginTest_001 - Close button is clicked of regulatory notice
+[INFO ] 2022-06-10 17:38:22.897 [main] TC_LoginTest_001 - Login test passed
+[DEBUG] 2022-06-10 17:41:48.340 [main] BaseClass - URL is opened
+[DEBUG] 2022-06-10 17:41:49.515 [main] TC_LoginTest_001 - Username is entered
+[DEBUG] 2022-06-10 17:41:49.634 [main] TC_LoginTest_001 - Password is entered
+[DEBUG] 2022-06-10 17:41:49.940 [main] TC_LoginTest_001 - Login Button is clicked
+[DEBUG] 2022-06-10 17:41:55.482 [main] TC_LoginTest_001 - Close button is clicked of regulatory notice
+[INFO ] 2022-06-10 17:41:55.501 [main] TC_LoginTest_001 - Login test passed
